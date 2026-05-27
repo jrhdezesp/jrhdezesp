@@ -1,4 +1,4 @@
-# Hi there 👋
+# About Me 🔎
 
 * 🎓 Computer Science Engineering student at UNICAH
 * 💻 Currently working on different projects
